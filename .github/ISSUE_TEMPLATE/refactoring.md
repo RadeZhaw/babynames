@@ -2,7 +2,7 @@
 name: Refactoring
 about: Improve code-quality without altering functionality
 title: Refactoring of ...
-labels: ''
+labels: Refactoring
 assignees: ''
 
 ---
